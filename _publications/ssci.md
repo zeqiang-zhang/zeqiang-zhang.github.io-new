@@ -6,7 +6,7 @@ permalink: /publication/ssci
 date: 2025-03-17
 venue: '2025 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (Trondheim, Norway)'
 paperurl: 'https://ieeexplore.ieee.org/document/10975741'
-citation: 'Ruxin, Chen; Zeqiang Zhang. (2025). &quot;Deep Reinforcement Learning in Labor Market Simulations.&quot; <i>2025 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CiFer)</i>. Trondheim, Norway.'
+citation: 'Chen, Ruxin; Zeqiang Zhang. (2025). &quot;Deep Reinforcement Learning in Labor Market Simulations.&quot; <i>2025 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CiFer)</i>. Trondheim, Norway.'
 ---
 ![Fig.](/images/ssci.jpg)
 
